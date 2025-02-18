@@ -1,4 +1,4 @@
-# App Service Bug Bash – January 2025
+# App Service Bug Bash – February 2025
 
 The goal 🎯 of this bug bash is to test out Node.js deployment scenarios and ensure that users can successfully deploy a Node.js Web Application on[ Azure App Service](https://azure.microsoft.com/products/app-service/?msockid=0b50b8fa1230692c3493adb913b768eb).
 
