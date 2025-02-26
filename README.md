@@ -18,12 +18,12 @@ You can deploy your project from local or from a Codespaces.
 
 ### Option 2: Bring Your Own Code (BYOC)
 - Bring your own Node.js project ready for deployment. 
-- Additional resources to help you [Build JavaScript applications with Node.js](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-nodejs/)
+- Additional resources to help you [App Service - Zero to Hero Guide](https://azure.github.io/AppService/)
 
 ## Deploy to Azure
 _Note: [App Service Runtime Support for Node](https://github.com/Azure/app-service-linux-docs/blob/master/Runtime_Support/node_support.md#nodejs-on-app-service)_
 
-Complete deployment either via the [App Service VS Code extension](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-vscode#deploy-to-azure) or through the [Command-Line Interface (CLI)](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-cli#deploy-to-azure)
+Complete deployment either via the [App Service VS Code extension](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-vscode#deploy-to-azure) or through the [Command-Line Interface (CLI)](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-cli#deploy-to-azure). You also have other alternatives like using Infrastructure as Code (IaC) - [Bicep](https://github.com/Azure/bicep-registry-modules/tree/main/avm/res/web/site#webfunction-apps-microsoftwebsites)/ Terraform
 
 ### Option 1: Deploy to Linux App Service
 1. [Instructions](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=linux&pivots=development-environment-vscode#configure-the-app-service-app-and-deploy-code)
@@ -42,7 +42,5 @@ Set up continuous deployment (CD) with [GitHub Actions](https://docs.github.com/
 ## Stream Logs
 Try accessing your logs using the [VS Code extension](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-vscode#stream-logs), [CLI tool](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-cli#stream-logs) or directly on the [Azure Portal](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-azure-portal#stream-logs).
 
-## What Next
-If you would like to continue playing around with Azure, [create an account for free](https://azure.microsoft.com/en-gb/pricing/purchase-options/azure-account?icid=azurefreeaccount&utm_source=campaign&utm_campaign=vscode-tutorial-app-service-extension&mktingSource=vscode-tutorial-app-service-extension)
-
 ## Feedback Submission
+Your voice matters in improving our products! Please submit your feedback, bugs, issues **live on the meeting via the meeting chat**, or **open an issue** against this repository using our [issue template](https://github.com/Azure-Kenya-User-Group/app-service-bug-bash/issues/new?template=bug-bash-feedback.md)
