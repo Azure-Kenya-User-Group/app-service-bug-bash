@@ -44,3 +44,6 @@ Try accessing your logs using the [VS Code extension](https://learn.microsoft.co
 
 ## Feedback Submission
 Your voice matters in improving our products! Please submit your feedback, bugs, issues **live on the meeting via the meeting chat**, or **open an issue** against this repository using our [issue template](https://github.com/Azure-Kenya-User-Group/app-service-bug-bash/issues/new?template=bug-bash-feedback.md)
+
+## What Next
+If you would like to continue playing around with Azure, [create an account for free](https://azure.microsoft.com/en-gb/pricing/purchase-options/azure-account?icid=azurefreeaccount&utm_source=campaign&utm_campaign=vscode-tutorial-app-service-extension&mktingSource=vscode-tutorial-app-service-extension)
