@@ -3,7 +3,7 @@
 The goal 🎯 of this bug bash is to test out Node.js deployment scenarios and ensure that users can successfully deploy a Node.js Web Application on[ Azure App Service](https://azure.microsoft.com/products/app-service/?msockid=0b50b8fa1230692c3493adb913b768eb).
 
 ## Requirements
-1.	An Azure Subscription
+1.	An Azure Subscription [Create an account for free](https://azure.microsoft.com/en-gb/pricing/purchase-options/azure-account?icid=azurefreeaccount&utm_source=campaign&utm_campaign=vscode-tutorial-app-service-extension&mktingSource=vscode-tutorial-app-service-extension)
 2.	[Node.js ^18.20.5](https://nodejs.org/en) & npm
 3.	[Visual Studio Code](https://code.visualstudio.com/) & [Azure App Service Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)
 4.	Node.js project – Either select a sample from Microsoft, or Bring Your Own Code
